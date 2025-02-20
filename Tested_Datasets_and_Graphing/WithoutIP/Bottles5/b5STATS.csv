@@ -1,0 +1,6 @@
+category,fraction,average_dot_product,variance,second_best_category
+Water Bottle,0.30126746831329215,0.27510312,0.0007576088,Plastic Bottle
+Wine Bottle,0.30829229269268266,0.25718987,0.00067336153,Beer Bottle
+Soda Bottle,0.14887127821804455,0.25833422,0.00054753816,Beer Bottle
+Plastic Bottle,0.1056473588160296,0.25830552,0.0006852229,Water Bottle
+Beer Bottle,0.135921601959951,0.24843767,0.0006340438,Soda Bottle
